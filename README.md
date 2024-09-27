@@ -1,1 +1,1 @@
-# Successive_Speaker_ReTF_Estimation
+This file is the supplementary audio files for the paper "Successive Speaker Relative Transfer Function Estimation Through Relative Transfer Matrix in Noisy Reverberant Environments" submitted to Asia-Pacific Signal and Information Processing Association Annual Summit and Conference 2024.
